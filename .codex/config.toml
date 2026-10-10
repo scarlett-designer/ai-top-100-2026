@@ -1,0 +1,5 @@
+[mcp_servers.notion]
+url = "https://mcp.notion.com/mcp"
+
+[mcp_servers.notion_sny0110]
+url = "https://mcp.notion.com/mcp"
